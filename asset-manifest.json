@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aritradey-CS/ExpenseTracker/static/css/main.e9f44403.css",
+    "main.js": "/aritradey-CS/ExpenseTracker/static/js/main.63b49d15.js",
+    "index.html": "/aritradey-CS/ExpenseTracker/index.html",
+    "main.e9f44403.css.map": "/aritradey-CS/ExpenseTracker/static/css/main.e9f44403.css.map",
+    "main.63b49d15.js.map": "/aritradey-CS/ExpenseTracker/static/js/main.63b49d15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f44403.css",
+    "static/js/main.63b49d15.js"
+  ]
+}
